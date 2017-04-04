@@ -10,8 +10,10 @@
 int main(void)
 {
     float mq;
-	printf("Metros quadrados -> ");
+    printf("Metros quadrados -> ");
     scanf("%f", &mq);
 
-	printf("Hectares -: %f \n", mq*0.0001);
+    printf("Hectares -: %f \n", mq*0.0001);
+    
+    return 0;
 }

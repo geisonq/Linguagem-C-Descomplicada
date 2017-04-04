@@ -14,4 +14,6 @@ int main(void)
     scanf("%f", &s);
 
     printf("[+] Com aumento -> %.2f\n", s + (s*AUMENTO));
+    
+    return 0;
 }

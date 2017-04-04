@@ -10,11 +10,11 @@ int main(void)
 {
 	int x, y, z;
     printf("Le tres valores e apresenta a soma dos quadrados\n\n");
-    
+
 	printf("Enre com x, y, z -> ");
     scanf("%d%d%d", &x, &y, &z);
-	
+
 	printf("A soma dos quadrados é -: %d \n", (x*x)+(y*y)+(z*z));
-    
+
     return 0;
 }

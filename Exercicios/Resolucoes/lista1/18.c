@@ -9,9 +9,11 @@
 
 int main(void)
 {
-	int m;
-	printf("Metros cúbicos -> ");
-	scanf("%d", &m);
-	
-	printf("Litros -: %d\n", 1000*m);
+    int m;
+    printf("Metros cúbicos -> ");
+    scanf("%d", &m);
+
+    printf("Litros -: %d\n", 1000*m);
+    
+    return 0;
 }

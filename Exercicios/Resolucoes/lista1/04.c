@@ -8,8 +8,10 @@
 int main(void)
 {
     float n;
-	printf("Entre com n -> ");
+    printf("Entre com n -> ");
     scanf("%f", &n);
-	
-	printf("[+] Quadrado de %.2f é: %.2f\n", n, (n * n));
+
+    printf("[+] Quadrado de %.2f é: %.2f\n", n, (n * n));
+    
+    return 0;
 }

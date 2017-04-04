@@ -10,8 +10,10 @@
 int main(void)
 {
     float m;
-	printf("Distância em milhas -> ");
-	scanf("%f", &m);
-	
-	printf("Distância em quilômetros -: %.6f\n", 1.609344*m);
+    printf("Distância em milhas -> ");
+    scanf("%f", &m);
+
+    printf("Distância em quilômetros -: %.6f\n", 1.609344*m);
+    
+    return 0;
 }

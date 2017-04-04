@@ -14,4 +14,6 @@ int main(void)
     scanf("%f%d", &vht, &nht);
 
     printf("[+] Valor a ser pago -> %.2f\n", (float) vht * nht + (vht * nht) * 0.10);
+
+    return 0;
 }

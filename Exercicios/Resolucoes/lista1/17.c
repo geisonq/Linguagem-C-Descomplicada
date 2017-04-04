@@ -10,8 +10,10 @@
 int main(void)
 {
     double c;
-	printf("Valor em comprimento ->");
-	scanf("%la", &c);
-	
-	printf("Valor em polegadas %.4f \n", c/2.54);
+    printf("Valor em comprimento ->");
+    scanf("%la", &c);
+
+    printf("Valor em polegadas %.4f \n", c/2.54);
+    
+    return 0;
 }

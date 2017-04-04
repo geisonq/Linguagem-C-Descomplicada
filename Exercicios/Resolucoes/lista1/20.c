@@ -9,9 +9,11 @@
 
 int main(void)
 {
-	float k;
-	printf("Quilogramas -> ");
-	scanf("%f", &k);
-	
-	printf("Libras -: %f \n", k/0.45359237);
+    float k;
+    printf("Quilogramas -> ");
+    scanf("%f", &k);
+
+    printf("Libras -: %f \n", k/0.45359237);
+    
+    return 0;
 }

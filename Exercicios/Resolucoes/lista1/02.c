@@ -10,4 +10,6 @@ int main(void)
 {
 	float n = 10;
 	printf("%f é um número real \n", n);
+    
+    return 0;
 }

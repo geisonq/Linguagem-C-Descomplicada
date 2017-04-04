@@ -9,9 +9,11 @@
 
 int main(void)
 {
-	double a;
-	printf("Acres -> ");
-	scanf("%la", &a);
-	
-	printf("Metros quadrados -: %.2la\n", a*4046.86);
+    double a;
+    printf("Acres -> ");
+    scanf("%la", &a);
+
+    printf("Metros quadrados -: %.2la\n", a*4046.86);
+    
+    return 0;
 }

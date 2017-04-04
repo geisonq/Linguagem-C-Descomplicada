@@ -9,9 +9,11 @@
 
 int main(void)
 {
-	short p;
-	printf("Comprimento em polegadas -> ");
-	scanf("%hu", &p);
-	
-	printf("Comprimento em centímetros -: %.2f \n", p*2.54);
+    short p;
+    printf("Comprimento em polegadas -> ");
+    scanf("%hu", &p);
+
+    printf("Comprimento em centímetros -: %.2f \n", p*2.54);
+    
+    return 0;
 }

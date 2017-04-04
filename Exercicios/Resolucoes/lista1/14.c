@@ -11,9 +11,11 @@
 int main(void)
 {
     double g;
-	printf("Angulo em Graus -> ");
-	scanf("%la", &g);
-	
-	printf("Graus em radianos -: %.14la\n", g*PI/180);
+    printf("Angulo em Graus -> ");
+    scanf("%la", &g);
+
+    printf("Graus em radianos -: %.14la\n", g*PI/180);
+    
+    return 0;
 }
 

@@ -10,8 +10,10 @@
 int main(void)
 {	
     float f;
-	printf("Temperatura em Fahrenheit -> ");	
-	scanf("%f", &f);
+    printf("Temperatura em Fahrenheit -> ");	
+    scanf("%f", &f);
 	
-	printf("Temperatura em Fahrenheit -> %.2f \n", 5.0 * (f-32.0)/9.0);
+    printf("Temperatura em Fahrenheit -> %.2f \n", 5.0 * (f-32.0)/9.0);
+    
+    return 0;
 }

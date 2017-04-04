@@ -10,9 +10,11 @@
 
 int main(void)
 {
-	double r;
-	printf("Ângulo em radianos -> ");
-	scanf("%la", &r);
-	
-	printf("Ângulo em graus -: %.14f \n", r*180/PI);
+    double r;
+    printf("Ângulo em radianos -> ");
+    scanf("%la", &r);
+
+    printf("Ângulo em graus -: %.14f \n", r*180/PI);
+    
+    return 0;
 }

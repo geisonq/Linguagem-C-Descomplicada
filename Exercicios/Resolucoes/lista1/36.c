@@ -15,4 +15,6 @@ int main(void)
     scanf("%f%f", &raio, &altura);
 
     printf("[+] Volume do cilindro -> %.2f\n", (float) PI * (raio*raio) * altura);
+    
+    return 0;
 }

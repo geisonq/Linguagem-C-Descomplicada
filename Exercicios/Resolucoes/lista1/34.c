@@ -14,4 +14,6 @@ int main(void)
     scanf("%d", &r);
 
     printf("[+] Area -> %.2f\n", (float) PI * (r * r));
+    
+    return 0;
 }

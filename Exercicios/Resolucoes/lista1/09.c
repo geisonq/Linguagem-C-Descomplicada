@@ -10,8 +10,10 @@
 int main(void)
 {
     float c;
-	printf("Temperatura em Celsius -> ");
-	scanf("%f", &c);
+    printf("Temperatura em Celsius -> ");
+    scanf("%f", &c);
 
-	printf("Temperatura em Kelvin -: %.2f \n", c+273.15);
+    printf("Temperatura em Kelvin -: %.2f \n", c+273.15);
+    
+    return 0;
 }

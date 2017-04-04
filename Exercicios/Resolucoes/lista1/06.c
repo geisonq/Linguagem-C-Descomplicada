@@ -9,11 +9,11 @@
 
 int main(void)
 {
-	float c;
+    float c;
     printf("Temperatura em Celsius para Fahrenheit -> ");
-	scanf("%f", &c);
+    scanf("%f", &c);
 
-	printf("Temperatura em Fahrenheit: %.2f \n", (c*(9.0/5.0)+32.0));
+    printf("Temperatura em Fahrenheit: %.2f \n", (c*(9.0/5.0)+32.0));
     
     return 0;
 }

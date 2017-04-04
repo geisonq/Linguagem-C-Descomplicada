@@ -9,9 +9,11 @@
 
 int main(void)
 {
-	float ms;
-	printf("Velocidade em m/s -> ");
-	scanf("%f", &ms);
-	
-	printf("Velocidade em km/h -: %.4f\n", ms*3.6);
+    float ms;
+    printf("Velocidade em m/s -> ");
+    scanf("%f", &ms);
+
+    printf("Velocidade em km/h -: %.4f\n", ms*3.6);
+    
+    return 0;
 }

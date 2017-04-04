@@ -10,4 +10,6 @@ int main(void)
 {
 	int n = 10;
 	printf("%i é um número inteiro \n", n);
+    
+    return 0;
 }

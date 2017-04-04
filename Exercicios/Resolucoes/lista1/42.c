@@ -14,8 +14,8 @@ int main(void)
     float s;
     printf("Entre com o valor do salario -> ");
     scanf("%f", &s);
-    
+
     printf("[+] Salario a receber -> %.2f\n", s + (s * GRAT) - (s * IMP));
-    
+
     return 0;
 }

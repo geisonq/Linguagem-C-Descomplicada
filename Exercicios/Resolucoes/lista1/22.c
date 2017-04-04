@@ -10,8 +10,10 @@
 int main(void)
 {
     float j;
-	printf("Jardas -> ");
-	scanf("%f", &j);
-	
-	printf("Metros -: %.4f\n", 0.9144*j);
+    printf("Jardas -> ");
+    scanf("%f", &j);
+
+    printf("Metros -: %.4f\n", 0.9144*j);
+    
+    return 0;
 }

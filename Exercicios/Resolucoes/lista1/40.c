@@ -17,4 +17,6 @@ int main(void)
     scanf("%d", &d);
 
     printf("[+] Valor liquido -> %.2f\n", PRECO_DIA * d - (PRECO_DIA * d) * IMPOSTO);
+    
+    return 0;
 }

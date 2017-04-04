@@ -13,4 +13,6 @@ int main(void)
     scanf("%f", &p);
 
     printf("[+] Valor com desconto -> %.2f\n", p - (p * DESCONTO));
+    
+    return 0;
 }

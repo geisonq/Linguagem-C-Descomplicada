@@ -16,4 +16,6 @@ int main(void)
     scanf("%d%d", &a, &b);
 
     printf("[+] Hipotenusa -> %.2f\n", (float) sqrt((a*a) + (b*b)));
+    
+    return 0;
 }

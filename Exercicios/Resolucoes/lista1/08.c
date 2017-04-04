@@ -9,9 +9,11 @@
 
 int main(void)
 {
-	float k;
-	printf("Temperatura em Kelvin -> ");
-	scanf("%f", &k);
-	
-	printf("Temperatura em Celsius -: %.2f \n", k-273.15);
+    float k;
+    printf("Temperatura em Kelvin -> ");
+    scanf("%f", &k);
+
+    printf("Temperatura em Celsius -: %.2f \n", k-273.15);
+    
+    return 0;
 }

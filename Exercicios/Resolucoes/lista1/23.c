@@ -9,9 +9,11 @@
 
 int main(void)
 {
-	float m;
-	printf("Metros -> ");
-	scanf("%f", &m);
-	
-	printf("Jardas -: %.5f \n", m/.9144);
+    float m;
+    printf("Metros -> ");
+    scanf("%f", &m);
+
+    printf("Jardas -: %.5f \n", m/.9144);
+    
+    return 0;
 }

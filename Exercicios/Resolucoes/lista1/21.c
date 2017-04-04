@@ -10,8 +10,10 @@
 int main(void)
 {
     float l;
-	printf("Libras -> ");
+    printf("Libras -> ");
     scanf("%f", &l);
-	
-	printf("Quilogramas -: %.1f \n", l*.45359237);
+
+    printf("Quilogramas -: %.1f \n", l*.45359237);
+    
+    return 0;
 }

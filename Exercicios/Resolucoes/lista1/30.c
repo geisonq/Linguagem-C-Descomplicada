@@ -10,7 +10,9 @@ int main(void)
 {
     float real, cotacao;	
     printf("Entre com o valor em reais e a cotacao -> ");
-	scanf("%f%f", &real, &cotacao);
-	
-	printf("Dolares -: $ %.4f \n", real / cotacao);
+    scanf("%f%f", &real, &cotacao);
+
+    printf("Dolares -: $ %.4f \n", real / cotacao);
+    
+    return 0;
 }

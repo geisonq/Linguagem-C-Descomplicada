@@ -12,8 +12,8 @@ int main(void)
     float alturaDegrau, alturaAlcancar;
     printf("Entre com a altura do degrau e altura que prentende alcancar -> ");
     scanf("%f%f", &alturaDegrau, &alturaAlcancar);
-    
+
     printf("[+] Degrais a serem subidos -> %.0f\n", alturaAlcancar / alturaDegrau);
-    
+
     return 0;
 }

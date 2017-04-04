@@ -6,13 +6,14 @@
 * quilômetros e M em milhas. 
 **************************************************************************/
 #include <stdio.h>
-#include <cs50.h>
 
 int main(void)
 {
-	long double k;
-	printf("Distância em KMs -> ");
-	scanf("%La", &k);
-		
-	printf("Distância em Milhas -: %.6La\n", k/1.609344);
+    long double k;
+    printf("Distância em KMs -> ");
+    scanf("%La", &k);
+	
+    printf("Distância em Milhas -: %.6La\n", k/1.609344);
+    
+    return 0;
 }

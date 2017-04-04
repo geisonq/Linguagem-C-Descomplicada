@@ -17,12 +17,12 @@ int main(void)
     float valor;
     printf("Entre com o valor da compra -> ");
     scanf("%f", &valor);
-    
+
     float desconto = valor * 0.10;
     float valorParcela = valor / 3;
     float comissaoVista =  (valor - desconto) * 0.05;
     float comissaoPrazo = valor * 0.05;
-    
+
     printf("[+] Total a pagar com desconto -> %.2f\n", valor - desconto);
     printf("[+] Valor de cada parcela -> %.2f\n", valorParcela);
     printf("[+] Comissao a vista -> %.2f\n", comissaoVista);
