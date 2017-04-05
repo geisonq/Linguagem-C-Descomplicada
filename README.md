@@ -30,13 +30,11 @@ Na nossa primeira aula, iremos abordar o esqueleto de um programa em linguagem C
 * [Aula 01 - Introdução a linguagem C](https://www.youtube.com/watch?v=GiCt0Cwcp-U&list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu&index=1)
 * [Aula 02 - Declaração de Variáveis em C](https://www.youtube.com/watch?v=q51cHsgRHU4&list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu&index=2)
   * [Resumo](./Resumos/01-lendoEscrendoNasVariaveis.md)
+  * [Slide](https://programacaodescomplicada.files.wordpress.com/2012/05/aula2-variaveis-slides.pdf)
 * [Aula 03 - Printf](https://www.youtube.com/watch?v=q51cHsgRHU4&list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu&index=2)
   * [Resumo](./Resumos/02-ComandoPrintf.md)
 * [Aula 04 - Scanf](https://www.youtube.com/watch?v=q51cHsgRHU4&list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu&index=2)
   * [Resumo](./Resumos/03-comandoScanf.md)
-
-### Slides
-https://programacaodescomplicada.files.wordpress.com/2012/05/aula2-variaveis-slides.pdf
 
 ## As operações que podemos fazer com as variáveis
 ### Vídeos
