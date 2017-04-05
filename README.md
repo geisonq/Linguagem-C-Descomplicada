@@ -31,6 +31,7 @@ Na nossa primeira aula, iremos abordar o esqueleto de um programa em linguagem C
 * [Aula 02 - Declaração de Variáveis em C](https://www.youtube.com/watch?v=q51cHsgRHU4&list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu&index=2)
   * [Resumo](./Resumos/01-lendoEscrendoNasVariaveis.md)
 * [Aula 03 - Printf](https://www.youtube.com/watch?v=q51cHsgRHU4&list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu&index=2)
+  * [Resumo](./Resumo/02-ComandoPrintf.md)
 * [Aula 04 - Scanf](https://www.youtube.com/watch?v=q51cHsgRHU4&list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu&index=2)
 
 ### Slides
