@@ -29,11 +29,9 @@ Na nossa primeira aula, iremos abordar o esqueleto de um programa em linguagem C
 ### Vídeos
 * [Aula 01 - Introdução a linguagem C](https://www.youtube.com/watch?v=GiCt0Cwcp-U&list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu&index=1)
 * [Aula 02 - Declaração de Variáveis em C](https://www.youtube.com/watch?v=q51cHsgRHU4&list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu&index=2)
+  * [Resumo](./Resumos/01-lendoEscrendoNasVariaveis.md)
 * [Aula 03 - Printf](https://www.youtube.com/watch?v=q51cHsgRHU4&list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu&index=2)
 * [Aula 04 - Scanf](https://www.youtube.com/watch?v=q51cHsgRHU4&list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu&index=2)
-
-### Resumo
-[Lendo e escrevendo nas variáveis](./Resumos/01-lendoEscrendoNasVariaveis.md)
 
 ### Slides
 https://programacaodescomplicada.files.wordpress.com/2012/05/aula2-variaveis-slides.pdf
@@ -49,73 +47,60 @@ https://programacaodescomplicada.files.wordpress.com/2012/05/aula2-variaveis-sli
 * [Aula 11 - Operadores Relacionais](https://www.youtube.com/watch?v=q51cHsgRHU4&list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu&index=2)
 * [Aula 12 - Operadores Lógicos](https://www.youtube.com/watch?v=q51cHsgRHU4&list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu&index=2)
 
-### Tutorial
-
 ### Lista de exercícios
 [Lista 1](./Exercicios/01-lendoEscrendoNasVariaveis.md)
 
 ## Comandos de controle condicional
 ### Vídeos
-### Tutorial
 ### Lista de exercícios
 ### Resolução dos exercícios
 
 ## Comandos de repetição
 ### Vídeos
-### Tutorial
 ### Lista de exercícios
 ### Resolução dos exercícios
 
 ## Vetores e matrizes: arrays
 ### Vídeos
-### Tutorial
 ### Lista de exercícios
 ### Resolução dos exercícios
 
 ## Arrays de caracteres: strings
 ### Vídeos
-### Tutorial
 ### Lista de exercícios
 ### Resolução dos exercícios
 
 ## Tipos definidos pelo programador
 ### Vídeos
-### Tutorial
 ### Lista de exercícios
 ### Resolução dos exercícios
 
 ## Funções
 ### Vídeos
-### Tutorial
 ### Lista de exercícios
 ### Resolução dos exercícios
 
 ## Ponteiros
 ### Vídeos
-### Tutorial
 ### Lista de exercícios
 ### Resolução dos exercícios
 
 ## Alocação dinâmica
 ### Vídeos
-### Tutorial
 ### Lista de exercícios
 ### Resolução dos exercícios
 
 ## Arquivos
 ### Vídeos
-### Tutorial
 ### Lista de exercícios
 ### Resolução dos exercícios
 
 ## Avançado
 ### Vídeos
-### Tutorial
 ### Lista de exercícios
 ### Resolução dos exercícios
 
 ## O padrão C99
 ### Vídeos
-### Tutorial
 ### Lista de exercícios
 ### Resolução dos exercícios
