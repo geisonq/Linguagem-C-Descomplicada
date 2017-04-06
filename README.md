@@ -60,8 +60,13 @@ Na nossa primeira aula, iremos abordar o esqueleto de um programa em linguagem C
 
 ## Comandos de controle condicional
 ### Vídeos
+* [Aula 13 – Comando IF](https://www.youtube.com/watch?v=84mgFRR_ODo)
+* [Aula 14 – Comando Else](https://www.youtube.com/watch?v=YR-ku4OdPJU)
+* [Aula 15 – Aninhamento If-Else](https://www.youtube.com/watch?v=JBFgiNJevqc)
+* [Aula 16 – Operador Ternário (?)](https://www.youtube.com/watch?v=lWUZWF1Ifbw)
+* [Aula 17 – Comando SWITCH](https://www.youtube.com/watch?v=z395-PmpzlI)
+
 ### Lista de exercícios
-### Resolução dos exercícios
 
 ## Comandos de repetição
 ### Vídeos
