@@ -39,6 +39,7 @@ Na nossa primeira aula, iremos abordar o esqueleto de um programa em linguagem C
 ## As operações que podemos fazer com as variáveis
 ### Vídeos
 * [Aula 05 - Operador de atribuição](https://www.youtube.com/watch?v=q51cHsgRHU4&list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu&index=2)
+  * [Resumo](./Resumos/04-operadoresDeAtribuicao.md)
 * [Aula 06 - Constantes](https://www.youtube.com/watch?v=q51cHsgRHU4&list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu&index=2)
 * [Aula 07 - Operadores Aritméticos](https://www.youtube.com/watch?v=q51cHsgRHU4&list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu&index=2)
 * [Aula 08 - Comentários](https://www.youtube.com/watch?v=q51cHsgRHU4&list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu&index=2)
