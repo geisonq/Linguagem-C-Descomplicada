@@ -47,6 +47,7 @@ Na nossa primeira aula, iremos abordar o esqueleto de um programa em linguagem C
 * [Aula 08 - Comentários](https://www.youtube.com/watch?v=q51cHsgRHU4&list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu&index=2)
   * [Resumo](./Resumos/07-comentarios.md)
 * [Aula 09 - Pré e Pós Incremento](https://www.youtube.com/watch?v=q51cHsgRHU4&list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu&index=2)
+  * [Resumo](./Resumos/08-prePosIncremento.md)
 * [Aula 10 - Atribuição Simplificada](https://www.youtube.com/watch?v=q51cHsgRHU4&list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu&index=2)
 * [Aula 11 - Operadores Relacionais](https://www.youtube.com/watch?v=q51cHsgRHU4&list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu&index=2)
 * [Aula 12 - Operadores Lógicos](https://www.youtube.com/watch?v=q51cHsgRHU4&list=PL8iN9FQ7_jt7pMKtbgoc0uUQjoJK-3dYu&index=2)
