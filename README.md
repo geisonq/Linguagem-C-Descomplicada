@@ -67,6 +67,7 @@ Na nossa primeira aula, iremos abordar o esqueleto de um programa em linguagem C
 * [Aula 17 – Comando SWITCH](https://www.youtube.com/watch?v=z395-PmpzlI)
 
 ### Lista de exercícios
+[Lista 2](./Exercicios/02-comandosDeControleCondicional.md)
 
 ## Comandos de repetição
 ### Vídeos
