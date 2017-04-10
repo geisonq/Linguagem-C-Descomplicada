@@ -111,7 +111,7 @@ Sênior       | maiores de 18 anos
 [Solução](./Resolucoes/lista2/27.c)
 
 #### Faça um programa que leia três números inteiros positivos e efetue o cálculo de uma das seguintes médias de acordo com um valor numérico digitado pelo usuário e mostrado na tabela a seguir:
-Número | digitado Média  
+Número | digitado Média
 -------| ---------------- 
 1      |  Geométrica: x\*y\*z
 2      |  Ponderada: (x + 2 \* y + 3 \* z) / 6
@@ -185,3 +185,74 @@ Número | digitado Média
 
 #### Leia uma data e determine se ela é válida. Ou seja, verifique se o mês está entre 1 e 12, e se o dia existe naquele mês. Note que Fevereiro tem 29 dias em anos bissextos, e 28 dias em anos não bissextos.
 [Solução](./Resolucoes/lista2/35.c)
+
+#### Escreva um programa que, dado o valor da venda, imprima a comissão que deverá ser paga ao vendedor. Para calcular a comissão, considere a tabela abaixo:
+
+|                      Venda mensal                       |         Comissão          |
+|---------------------------------------------------------|---------------------------|
+| Maior ou igual a R$100.000,00                           | R$700,00 + 16% das vendas |
+| Menor que R$100.000,00 e maior ou igual a R$80.000,00   | R$650,00 + 14% das vendas |
+| Menor que R$80.000,00 e maior ou igual a R$60.000,00    | R$600,00 + 14% das vendas |
+| Menor que R$60.000,00 e maior ou igual a R$40.000,00    | R$550,00 + 14% das vendas |
+| Menor que R$40.000,00 e maior ou igual a R$20.000,00    | R$500,00 + 14% das vendas |
+| Menor que R$20.000,00                                   | R$400,00 + 14% das vendas |
+
+[Solução](./Resolucoes/lista2/36.c)
+
+#### As tarifas de certo parque de estacionamento são as seguintes: 
+* 1 a e 2 a hora - R$ 1,00 cada
+* 3 a e 4 a hora - R$ 1,40 cada
+* 5 a hora e seguintes - R$ 2,00 cada
+ 
+#### O número de horas a pagar é sempre inteiro e arredondado por excesso. Deste modo, quem estacionar durante 61 minutos pagará por duas horas, que é o mesmo que pagaria se tivesse permanecido 120 minutos. Os momentos de chegada ao parque e partida deste são apresentados na forma de pares de  inteiros,  representando horas e minutos. Por exemplo, o par 12 50 representará “dez para a uma da tarde”. Pretende-se criar um programa que, lidos pelo teclado os momentos de chegada e de partida, escreva na tela o preço cobrado pelo estacionamento. Admite-se que a chegada e a partida se dão com intervalo não superior a 24  horas. Portanto, se uma dada hora de chegada for superior à da partida, isso não é uma situação de erro, antes significará que a partida ocorreu no dia seguinte ao da chegada.
+[Solução](./Resolucoes/lista2/37.c)
+
+#### Leia uma data de nascimento de uma pessoa fornecida através de três números inteiros: Dia, Mês e  Ano. Teste a validade desta data para saber se esta é uma data válida. Teste se o dia fornecido é um dia válido: dia > 0, dia ≤ 28 para o mês de fevereiro (29 se o ano for bissexto), dia ≤ 30 em abril, junho, setembro e novembro, dia ≤ 31 nos outros meses. Teste a validade do mês: mês > 0 e mês < 13. Teste a validade do ano: ano ≤ ano atual (use uma constante definida com o valor igual a 2008). Imprimir: “data  válida” ou “data inválida” no final da execução do programa.
+[Solução](./Resolucoes/lista2/38.c)
+
+#### Uma empresa decide dar um aumento aos seus funcionários de acordo com uma tabela que considera o salário atual e o tempo de serviço de cada funcionário. Os funcionários com menor salário terão um aumento proporcionalmente maior do que os funcionários com um salário maior, e conforme o tempo de serviço na empresa, cada funcionário irá receber um  bônus adicional de salário. Faça um programa que leia:
+
+* o valor do salário atual do funcionário;
+* o tempo de serviço desse funcionário na empresa (número de anos de trabalho na empresa).
+
+#### Use as tabelas abaixo para calcular o salário reajustado deste funcionário e imprima o valor do salário final reajustado, ou uma mensagem caso o funcionário não tenha direito a nenhum aumento.
+
+|  Salário Atual   | Reajuste(%)  | Tempo de Serviço |   Bônus   |
+|------------------|--------------|------------------|-----------|
+| Até 500,00       | 25%          | Abaixo de 1 ano  | Sem bônus |
+| Até 1000,00      | 20%          | De 1 a 3 anos    | 100,00    |
+| Até 1500,00      | 15%          | De 4 a 6 anos    | 200,00    |
+| Até 2000,00      | 10%          | De 7 a 10 anos   | 300,00    |
+| Acima de 2000,00 | Sem reajuste | Mais de 10 anos  | 500,00    |
+
+[Solução](./Resolucoes/lista2/39.c)
+
+O custo ao consumidor de um carro novo é a soma do custo de fábrica, da comissão do distribuidor, e dos impostos. A comissão e os impostos são calculados sobre o custo de fábrica, de acordo com a tabela abaixo. Leia o custo de fábrica e escreva o custo ao consumidor.
+
+|       CUSTO DE FÁBRICA        | % DO DISTRIBUIDOR | % DOS IMPOSTOS |
+|-------------------------------|-------------------|----------------|
+| até R$12.000,00               |                 5 | isento         |
+| entre R$12.000,00 e 25.000,00 |                10 | 15             |
+| acima de R$25.000,            |                15 | 20             |
+
+[Solução](./Resolucoes/lista2/40.c)
+
+Faça um algoritmo que calcule o IM C de uma pessoa e mostre sua classificação de acordo com a tabela abaixo:
+
+|     IMC      |        Classificação        |
+|--------------|-----------------------------|
+| < 18,5       | Abaixo do Peso              |
+| 18 - 24,9    | Saudável                    |
+| 25,0 - 29,9  | Peso em excesso             |
+| 30,0 - 34,9  | Obesidade Grau I            |
+| 35,00 - 39,9 | Obesidade Grau II(severa)   |
+| > 40         | Obesidade Grau III(mórbida) |
+
+[Solução](./Resolucoes/lista2/41.c)
+
+
+
+
+
+
+
