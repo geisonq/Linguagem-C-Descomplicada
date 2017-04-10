@@ -20,7 +20,7 @@ int main(void)
     printf("Entre com a data de nascimento(dd/mm/aaaa) -> ");
     scanf("%d/%d/%d", &d, &m, &a);
     
-    if((d > 31 || d < 0) || (m > 12 || m < 0) || (a > ANO_ATUAL)) printf("Data Invalida\n");
+    if((d > 31 || d <= 0) || (m > 12 || m <= 0) || (a > ANO_ATUAL)) printf("Data Invalida\n");
     else if((m == 4 || m == 6 || m == 9 || m == 11) && d > 30) printf("Data Invalida\n");
     else if((a % 400 == 0 || (a % 4 == 0 && a % 100 != 0)) && (m == 2 && d <= 29)) printf("Data Valida\n");
     else if(m == 2 && d > 28) printf("Data Invalida\n");
