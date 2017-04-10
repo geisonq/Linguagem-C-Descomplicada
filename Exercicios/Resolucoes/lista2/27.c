@@ -24,7 +24,8 @@ int main(void)
     else if(idade <= 10) printf("[λ] Nadador Infantil B\n");
     else if(idade <= 13) printf("[λ] Nadador Juvenil A\n");
     else if(idade <= 17) printf("[λ] Nadador Juvenil B\n");
-    else printf("[λ] Nadador Senior\n");
+    else if(idade > 18) printf("[λ] Nadador Senior\n");
+    else printf("O nadador deve ter mais que 5 anos\n");
 
     return 0;
 }
